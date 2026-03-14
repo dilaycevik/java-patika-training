@@ -24,7 +24,7 @@ public class Baslangic {
          b = ( a<b) ? 5 : 10;
          System.out.println(b);
 
-
+        System.out.println("---------");
     }
 
 }
